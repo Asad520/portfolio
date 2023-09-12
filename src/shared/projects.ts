@@ -41,7 +41,7 @@ export const projects = [
     url: {
       appstore: "https://apps.apple.com/us/app/jobcase/id1506836734",
       playstore:
-        "https://play.google.com/store/apps/details?id=com.jobcase.member&hl=en&gl=US",
+        "https://play.google.com/store/apps/details?id=com.jobcase.member",
     },
     description:
       "Jobcase is an online community dedicated to guiding and advocating for the world’s workers. The Jobcase site and app are a social media platform where members can get access to opportunities from top employers, tools to prepare for job seeking and interviews, and a helpful community to support their journey. Jobcase is an affiliate of MIT’s Computer Science and Artificial Intelligence Lab, and partners with employers and nonprofits to expand opportunity for the workforce.",
@@ -70,7 +70,7 @@ export const projects = [
     id: "2",
     index: 2,
     url: {
-      web: "https://store.delaware.pro/en-BE/solutions/field-anywhere",
+      web: "https://store.delaware.pro/public/en-BE/",
     },
     description:
       "FieldAnywhere is an essential asset to help organizations get the most out of their field work-force. Whether on or offline, it assists field engineers on the floor and frees up extra capacity by reducing non-value adding activities. Unlike other third party tools, FieldAnywhere is fully integrated with SAP ERP and S/4HANA.",
